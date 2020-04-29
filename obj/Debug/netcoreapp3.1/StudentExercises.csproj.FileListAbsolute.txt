@@ -1,0 +1,12 @@
+/Users/jlcomp45/workspace/csharp/StudentExercises/bin/Debug/netcoreapp3.1/StudentExercises.deps.json
+/Users/jlcomp45/workspace/csharp/StudentExercises/bin/Debug/netcoreapp3.1/StudentExercises.runtimeconfig.json
+/Users/jlcomp45/workspace/csharp/StudentExercises/bin/Debug/netcoreapp3.1/StudentExercises.runtimeconfig.dev.json
+/Users/jlcomp45/workspace/csharp/StudentExercises/bin/Debug/netcoreapp3.1/StudentExercises.dll
+/Users/jlcomp45/workspace/csharp/StudentExercises/bin/Debug/netcoreapp3.1/StudentExercises.pdb
+/Users/jlcomp45/workspace/csharp/StudentExercises/obj/Debug/netcoreapp3.1/StudentExercises.csprojAssemblyReference.cache
+/Users/jlcomp45/workspace/csharp/StudentExercises/obj/Debug/netcoreapp3.1/StudentExercises.csproj.CoreCompileInputs.cache
+/Users/jlcomp45/workspace/csharp/StudentExercises/obj/Debug/netcoreapp3.1/StudentExercises.AssemblyInfoInputs.cache
+/Users/jlcomp45/workspace/csharp/StudentExercises/obj/Debug/netcoreapp3.1/StudentExercises.AssemblyInfo.cs
+/Users/jlcomp45/workspace/csharp/StudentExercises/obj/Debug/netcoreapp3.1/StudentExercises.dll
+/Users/jlcomp45/workspace/csharp/StudentExercises/obj/Debug/netcoreapp3.1/StudentExercises.pdb
+/Users/jlcomp45/workspace/csharp/StudentExercises/obj/Debug/netcoreapp3.1/StudentExercises.genruntimeconfig.cache
