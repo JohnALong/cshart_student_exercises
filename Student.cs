@@ -10,14 +10,17 @@ namespace StudentExercises
         public string LastName { get; set; }
         
         public string SlackHandle { get; set; }
+
+        public string Cohort { get; set; }
         
         public List<Exercise> Exercises = new List<Exercise>();
 
-        public Student(string firstName, string lastName, string slackHandle)
+        public Student(string firstName, string lastName, string slackHandle, string cohort)
         {
             FirstName = firstName;
             LastName = lastName;
             SlackHandle = slackHandle;
+            Cohort = cohort;
         }
     }
 }
