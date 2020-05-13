@@ -3,17 +3,9 @@ using System.Collections.Generic;
 
 namespace StudentExercises
 {
-    public class Instructor 
+    public class Instructor : NSSPerson
     {
-        public string FirstName { get; set; }
-
-        public string LastName { get; set; }
-        
-        public string SlackHandle { get; set; }
-
         public string Specialty { get; set; }
-
-        public string Cohort { get; set; }
         
         public List<Exercise> Exercises = new List<Exercise>();
 
